@@ -10,7 +10,7 @@ from dash import html
 from dash.dependencies import Output, Input
 
 
-data = pd.read_csv('avocado/input/avocado.csv')
+data = pd.read_csv('input/avocado.csv')
 # query data, get conventional albany
 # data = data.query("type == 'conventional' and region == 'Albany'")
 
