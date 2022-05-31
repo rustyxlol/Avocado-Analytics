@@ -1,5 +1,7 @@
 # 🥑 Avocado Analytics
 
+Demo: [🥑 Analytics](http://avocadoanalytics-env.eba-zmcexwfu.ap-south-1.elasticbeanstalk.com/)
+
 A tutorial-based project for learning Dash, a python library for interactive web applications.
 
 Things covered:
